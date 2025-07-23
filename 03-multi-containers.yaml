@@ -10,6 +10,6 @@ spec:
   - name: nginx 
     image: nginx 
   - name: almalinux 
-    image: alma-linux 
+    image: almalinux 
  
 
