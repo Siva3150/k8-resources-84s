@@ -23,8 +23,9 @@ spec:
      project: roboshop
      app: nginx
    spec: 
-   - name: nginx 
-     image: nginx 
+    containers:
+    - name: nginx 
+      image: nginx 
    
  
 
