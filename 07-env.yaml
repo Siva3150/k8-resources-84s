@@ -3,7 +3,7 @@ kind: Pod
 metadata: 
  name: envar-demo 
  labels: 
-  purpose: demonstrate env-vars 
+  purpose: demonstrate-envvars 
 spec: 
  containers:
  - name: nginx 
