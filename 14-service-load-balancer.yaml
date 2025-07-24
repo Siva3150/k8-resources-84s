@@ -21,7 +21,7 @@ ports:
 apiVersion: v1 
 kind: Pod
 metadata: 
-name: nginx-lb 
+ name: nginx-lb 
 labels: 
   purpose: service-np-demo 
   project: roboshop 
