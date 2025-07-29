@@ -39,8 +39,8 @@ metadata:
 spec:
   selector:
     matchLabels:
-    purpose: statefulset
-    project: roboshop
+     purpose: statefulset
+     project: roboshop
   serviceName: "nginx-svc-headless"   # this should be headless service
   replicas: 3 # by default is 1
   minReadySeconds: 10 # by default is 0
